@@ -73,7 +73,6 @@
 
 ### 🧮 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/S_Nagar?theme=dark&font=Karma&ext=contest" width="75%" />
    <img src="https://leetcard.jacoblin.cool/S_Nagar?ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
